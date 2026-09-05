@@ -35,7 +35,6 @@ The project is designed to provide a practical understanding of:
 - 📊 Neural-network visualization
 - 🌐 Browser-based application
 - ⚡ No external framework required
-- 🎨 Canvas-based graphical simulation
 
 ---
 
