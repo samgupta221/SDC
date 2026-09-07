@@ -6,38 +6,6 @@ This project demonstrates the basic concepts behind autonomous driving by combin
 
 ---
 
-## 🌟 Overview
-
-The **Self-Driving Car** project simulates an autonomous vehicle driving through a virtual road environment.
-
-The car receives information from its surrounding environment through sensors. This information is processed by a neural network, which determines the actions required to control the vehicle.
-
-The project is designed to provide a practical understanding of:
-
-- Autonomous vehicle simulation
-- Sensor-based environment detection
-- Neural networks
-- Vehicle movement and controls
-- Road and traffic simulation
-- Collision detection
-- Neural-network visualization
-
----
-
-## ✨ Features
-
-- 🚗 Self-driving car simulation
-- 🛣️ Procedurally generated road environment
-- 📡 Sensor-based environment detection
-- 🧠 Neural-network-based decision making
-- 🎮 Car movement and control system
-- 💥 Collision detection
-- 📊 Neural-network visualization
-- 🌐 Browser-based application
-- ⚡ No external framework required
-
----
-
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
