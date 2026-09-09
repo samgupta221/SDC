@@ -1,4 +1,4 @@
-# 🚗 SELF-DRIVING-CAR
+# SELF-DRIVING-CAR
 
 A browser-based **Self-Driving Car Simulation** built using **JavaScript, HTML5, CSS3, and Canvas**.
 
