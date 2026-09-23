@@ -18,15 +18,3 @@ The project is designed to demonstrate the basic concepts behind autonomous vehi
 - 🌐 Interactive browser visualization
 - 🎨 Real-time simulation
 
-## ✨ Features
-
-- **Self-driving car simulation**
-- **Sensor system** for detecting nearby obstacles
-- **Road and traffic simulation**
-- **Neural network implementation**
-- **Real-time visualization**
-- **Keyboard-controlled car**
-- **Collision detection**
-- **Interactive browser interface**
-- Runs directly in the browser without requiring a backend server
-
